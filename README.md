@@ -288,3 +288,4 @@ In your Contentful space, go to **Settings > Webhooks** and add a new webhook:
 
   ![Content successful request](./docs/content-successful-request.png)
 # innerwestie
+# innerwestie
