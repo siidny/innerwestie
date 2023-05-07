@@ -1,6 +1,6 @@
-{import('next').NextConfig}
+/** @type {import('next').NextConfig} */
 module.exports = {
   images: {
-    loader: 'default',
+    loader: 'custom',
   },
 }
